@@ -1,2 +1,7 @@
 Week 5:
+
+Custom URL:
 MSander.jumpingcrab.com
+
+Heroku Tutorial:
+peaceful-wave-14368.herokuapp.com
