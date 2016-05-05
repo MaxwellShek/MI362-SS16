@@ -1,9 +1,0 @@
-Checklist 
-1.)Hosted on Heroku X
-2.)Custom Domain Name X
-3.)Custom Programming X
-Cat Pictures, Store Inventory running on server. Could not get accounts working but the first two required quite a lot of coding. Also did it in Slim!
-4.)4 Complete HTML Pages with Content X
-Cat Pictures, Store Inventory, Home, About
-5.)Third Party Font Awesome X
-Cat Picture page camera icon
