@@ -1,1 +1,5 @@
-Please go to: MI362Final.jumpingcrab.com
+Please go to:
+MI362Final.space
+
+If above fails:
+https://rocky-scrubland-9379.herokuapp.com
